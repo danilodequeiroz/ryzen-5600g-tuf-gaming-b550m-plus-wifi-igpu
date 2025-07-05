@@ -525,7 +525,7 @@
 			<key>Cpuid1Mask</key>
 			<data></data>
 			<key>DummyPowerManagement</key>
-			<false/>
+			<true/>
 			<key>MaxKernel</key>
 			<string></string>
 			<key>MinKernel</key>
@@ -1412,7 +1412,7 @@
 			<key>ApplePanic</key>
 			<true/>
 			<key>DisableWatchDog</key>
-			<true/>
+			<false/>
 			<key>DisplayDelay</key>
 			<integer>0</integer>
 			<key>DisplayLevel</key>
@@ -1422,7 +1422,7 @@
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>67</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Entries</key>
 		<array>
@@ -1601,13 +1601,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K135500CDK3F78C</string>
+			<string>F5K111102J9K3F7A8</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>mBDodbUf</data>
+			<data>lPajo4Mn</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1615,9 +1615,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KG9CYUP7QM</string>
+			<string>F5KFFEYSP7QM</string>
 			<key>SystemUUID</key>
-			<string>74EEBDB5-F0FC-4077-91A2-F6C71CAD4DA5</string>
+			<string>1927D6CB-9DA2-4FFC-9B1C-CD9F369677F6</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1643,9 +1643,9 @@
 			<key>JumpstartHotPlug</key>
 			<false/>
 			<key>MinDate</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 			<key>MinVersion</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>AppleInput</key>
 		<dict>
@@ -1725,7 +1725,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>LoadEarly</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>OpenRuntime.efi</string>
 			</dict>
